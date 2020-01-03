@@ -1,0 +1,129 @@
+
+.userinfo  {
+    /*margin-left: 40%;*/
+}
+
+.addressForm form{
+    /*left: 40%;*/
+    margin-left: 40%;
+}
+.addressForm label, input{
+    margin: 10px;
+
+}
+.userinfo {
+    margin-left: 40%;
+
+}
+
+.Cart {
+    width: 70%;
+    border: #444444;
+
+}
+
+/*.Cartitem a{*/
+    /*margin-right: 20%;*/
+/*}*/
+Cartitem h4 {
+    margin: 20px;
+}
+.orders {
+    float:left;
+    margin-left: 10%;
+    margin-top: 30px;
+}
+
+/*.addressForm button{*/
+    /*margin-left: 20px;*/
+/*}*/
+/*.userInfo {*/
+    /*background-color: green;*/
+    /*width: 10%;*/
+    /*position: absolute;*/
+    /*left: 40%;*/
+    /*top: 50%;*/
+    /*margin-left: 210px;*/
+    /*color: red;*/
+    /*font-weight: 900;*/
+    /*font-size: 20pt;*/
+/*}*/
+
+/*.userInfo:hover {*/
+    /*background-color: red;*/
+    /*color: green;*/
+    /*height: 300px;*/
+    /*width: 50%;*/
+/*}*/
+
+/*.userInfo::after {*/
+    /*position: absolute;*/
+    /*bottom: 30%;*/
+/*}*/
+
+/*.addressForm {*/
+    /*position: relative;*/
+    /*!*top: 20%;*!*/
+    /*width: 100%;*/
+    /*height: 300px;*/
+    /*text-align: center;*/
+/*}*/
+
+/*.nameDiv {*/
+    /*!*background-color: #4CAF50;*!*/
+    /*position: absolute;*/
+    /*left: 30%;*/
+/*}*/
+
+/*.name1Div {*/
+    /*!*background-color: red;*!*/
+    /*position: absolute;*/
+    /*top: 10%;*/
+    /*left: 30%;*/
+/*}*/
+
+/*.emailDiv {*/
+    /*!*background-color: deeppink;*!*/
+    /*position: absolute;*/
+    /*top: 20%;*/
+    /*left: 30%;*/
+    /*padding-right: 200px;*/
+/*}*/
+
+/*.addressDiv {*/
+    /*position: absolute;*/
+    /*top: 30%;*/
+    /*left: 30%;*/
+    /*padding-right: 200px;*/
+/*}*/
+
+/*.psotCodeDiv {*/
+    /*position: absolute;*/
+    /*top: 40%;*/
+    /*left: 30%;*/
+    /*padding-right: 200px;*/
+/*}*/
+
+/*.countryDiv {*/
+    /*position: absolute;*/
+    /*top: 50%;*/
+    /*left: 30%;*/
+/*}*/
+
+/*.creditCardDiv {*/
+    /*position: absolute;*/
+    /*top: 60%;*/
+    /*left: 30%;*/
+/*}*/
+
+/*.birthdayDiv {*/
+    /*position: absolute;*/
+    /*top: 70%;*/
+    /*left: 30%;*/
+/*}*/
+
+/*.submitButton {*/
+    /*position: absolute;*/
+    /*top: 80%;*/
+    /*left: 30%;*/
+/*}*/
