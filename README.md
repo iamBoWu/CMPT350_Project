@@ -1,3 +1,8 @@
+## Contributors
+Bo Wu
+Kun Niu
+Ziru Wang
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-main).
 
 ## Available Scripts
