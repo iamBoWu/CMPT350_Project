@@ -1,6 +1,6 @@
 ## Contributors
-Bo Wu
-Kun Niu
+Bo Wu <br>
+Kun Niu <br>
 Ziru Wang
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-main).
